@@ -1,2 +1,10 @@
 # dozzing
-도 치 조 아
+Thanks to thumbs up ehWld
+
+
+
+[![BOJ/dozzing729](http://mazassumnida.wtf/api/mini/generate_badge?boj={dozzing729})](https://solved.ac/{dozzing729})
+<img src="https://img.shields.io/badge/Swift-BA912B?style=flat&logo=Swift&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/IOS-8489B4?style=flat&logo=Apple&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C%2B%2B-46549D?style=flat&logo=C%2B%2B&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Unity-4D3B81?style=flat&logo=Unity&logoColor=white"/></a>
