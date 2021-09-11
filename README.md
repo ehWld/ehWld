@@ -1,7 +1,6 @@
 # dozzing
 
-<img width="300" alt="스크린샷 2021-09-12 오전 12 04 42" src="https://user-images.githubusercontent.com/61934702/132952251-1a8c40f6-0193-4085-84c8-eed3f9bf7d36.png">
-
+<img width="1179" alt="스크린샷 2021-09-12 오전 12 14 17" src="https://user-images.githubusercontent.com/61934702/132952591-74350741-dac8-4295-9f72-33e9f382cb46.png">
 
 Thanks to thumbs up ehWld
 
